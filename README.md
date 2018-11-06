@@ -1,15 +1,15 @@
 # Docker workshop
 
 * Haal een VM op
-* Verbind met SSH colablikje@*.cloudzuid.nl
+* Verbind met SSH colablik@*.cloudzuid.nl
 * Het wachtwoord staat op je papiertje.
 * Docker is toegevoegd aan je groep. Je hoeft dus niet te `sudo docker`'en.
 
-Ben je geen CLI held en is vim eng?
+Ben je geen command line held en is vim eng?
 
 ![shame](https://i.imgur.com/hyI9ItE.gif "shame")
 
-Je kunt ook ssh://JE-VM-NUMMER.cloudzuid.nl en dan colablikje en je wachtwoord invullen in je file browser. Dan wordt ie lokaal gemount via SSH.
+Je kunt ook ssh://JE-VM-NUMMER.cloudzuid.nl met colablik en je wachtwoord invullen in je file browser. Dan wordt ie lokaal gemount via SSH. Maar je ontkomt vandaag niet aan je command line.
 
 # Basic Cheats
 
